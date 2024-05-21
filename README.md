@@ -15,4 +15,4 @@ I'm passionate about web development and love creating interactive and dynamic u
 - Git
 
 ## 📫 Connect with Me
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/saurabhkemdarane/](https://www.linkedin.com/in/saurabh-kemdarane-06200030b/))!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saurabh-kemdarane/)!
